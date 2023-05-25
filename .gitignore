@@ -1,3 +1,8 @@
 UTKFace
 *.zip
 *.JPEG
+*.h5
+*.pickle
+imageset
+Compressed_data_age_1
+Compressed_data_age
